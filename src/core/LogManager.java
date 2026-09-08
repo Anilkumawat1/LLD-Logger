@@ -11,7 +11,10 @@ public class LogManager {
     private static final LogManager INSTANCE = new LogManager();
     private volatile LoggerConfig loggerConfig;
     private LogManager() {
-        this.loggerConfig = new LoggerConfig(LogLevel.INFO,List.of());
+        this.loggerConfig = LoggerConfig.builder()
+                .setLogLevel(LogLevel.INFO)
+                .setAppenders(List.of())
+                .build();
     }
 
     public static LogManager getInstance() {

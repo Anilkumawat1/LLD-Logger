@@ -14,10 +14,12 @@ import java.util.List;
 public class Main {
     private static final Logger log = LoggerFactory.getLogger(Main.class);
     public static void main(String[] args) {
-        LoggerConfig config = new LoggerConfig(LogLevel.INFO, List.of(
-                new ConsoleAppender(new PatternFormatter(),List.of(new LevelFilter(LogLevel.ERROR))),
-                new FileAppender("application.log", new JsonFormatter(),List.of(new LevelFilter(LogLevel.INFO)))
-        ));
+        LoggerConfig config = LoggerConfig.builder()
+                .setLogLevel(LogLevel.INFO)
+                .addAppender(new ConsoleAppender(new PatternFormatter(),List.of(new LevelFilter(LogLevel.ERROR))))
+                .addAppender(new FileAppender("application.log", new JsonFormatter(),List.of(new LevelFilter(LogLevel.INFO))))
+                .build();
+
         LogManager logManager = LogManager.getInstance();
         logManager.setLoggerConfig(config);
         log.info("This is an info message from Main class. %s", "Additional Info");
