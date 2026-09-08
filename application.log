@@ -1,47 +1,53 @@
-2026-09-07T17:51:40.058592Z [INFO] Main - This is an info message from Main class.
-2026-09-07T18:24:23.977410Z [INFO] Main - This is an info message from Main class.
-2026-09-07T18:37:26.393809Z [INFO] Main - This is an info message from Main class.
-{"timestamp":"2026-09-07T18:38:27.247155Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:40:42.175549Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:40:44.299510Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:40:46.231141Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:40:48.149235Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:48:32.321746Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:48:38.151255Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:48:39.503207Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class."}
-{"timestamp":"2026-09-07T18:52:39.584741Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class.{}"}
-{"timestamp":"2026-09-07T18:53:05.838601Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class.Additional Info"}
-{"timestamp":"2026-09-07T18:53:35.431271Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T18:53:35.434655Z","level":"ERROR","loggerName":"Main","threadName":"main","message":"This is an error message from Main class. Error Details"}
-{"timestamp":"2026-09-07T19:02:13.632806Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:02:56.044285Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:04:20.191Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:05:12.464576Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:05:38.863772Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:05:38.866608Z","level":"ERROR","loggerName":"Main","threadName":"main","message":"An exception occurred: / by zero","throwable":"java.lang.ArithmeticException: / by zero"}
-{"timestamp":"2026-09-07T19:08:22.919734Z","level":"INFO","loggerName":"Main","threadName":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:08:22.923410Z","level":"ERROR","loggerName":"Main","threadName":"main","message":"An exception occurred: / by zero","throwable":"java.lang.ArithmeticException: / by zero"}
-{"timestamp":"2026-09-07T19:11:34.449039Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-07T19:11:34.451592Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:24)\n"}}
-{"timestamp":"2026-09-08T16:54:48.123726Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T16:54:48.130056Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:24)\n"}}
-{"timestamp":"2026-09-08T17:07:52.179248Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:07:52.181891Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:12:09.676453Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:14:48.138233Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:14:51.056041Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:15:29.873739Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:18:32.406573Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:18:32.409983Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:19:00.641040Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:19:00.644205Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:19:11.877408Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:19:11.879587Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:24:22.265466Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:24:22.269003Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T17:24:37.837293Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T17:24:37.839941Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:25)\n"}}
-{"timestamp":"2026-09-08T18:06:12.331550Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T18:06:12.335048Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:27)\n"}}
-{"timestamp":"2026-09-08T18:32:11.299218Z","level":"INFO","logger":"Main","thread":"main","message":"This is an info message from Main class. Additional Info"}
-{"timestamp":"2026-09-08T18:32:11.301765Z","level":"ERROR","logger":"Main","thread":"main","message":"An exception occurred: / by zero","exception":{"type":"java.lang.ArithmeticException","message":"/ by zero","stackTrace":"java.lang.ArithmeticException: / by zero\n\tat Main.main(Main.java:29)\n"}}
+{"timestamp":"2026-09-08T19:26:48.566976Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=950"}
+{"timestamp":"2026-09-08T19:26:48.567334Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=951"}
+{"timestamp":"2026-09-08T19:26:48.567344Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=952"}
+{"timestamp":"2026-09-08T19:26:48.567353Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=953"}
+{"timestamp":"2026-09-08T19:26:48.567361Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=954"}
+{"timestamp":"2026-09-08T19:26:48.567376Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=955"}
+{"timestamp":"2026-09-08T19:26:48.567387Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=956"}
+{"timestamp":"2026-09-08T19:26:48.567395Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=957"}
+{"timestamp":"2026-09-08T19:26:48.567403Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=958"}
+{"timestamp":"2026-09-08T19:26:48.567411Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=959"}
+{"timestamp":"2026-09-08T19:26:48.567423Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=960"}
+{"timestamp":"2026-09-08T19:26:48.567430Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=961"}
+{"timestamp":"2026-09-08T19:26:48.567438Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=962"}
+{"timestamp":"2026-09-08T19:26:48.567446Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=963"}
+{"timestamp":"2026-09-08T19:26:48.567454Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=964"}
+{"timestamp":"2026-09-08T19:26:48.567461Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=965"}
+{"timestamp":"2026-09-08T19:26:48.567469Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=966"}
+{"timestamp":"2026-09-08T19:26:48.567478Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=967"}
+{"timestamp":"2026-09-08T19:26:48.567487Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=968"}
+{"timestamp":"2026-09-08T19:26:48.567495Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=969"}
+{"timestamp":"2026-09-08T19:26:48.567503Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=970"}
+{"timestamp":"2026-09-08T19:26:48.567511Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=971"}
+{"timestamp":"2026-09-08T19:26:48.567518Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=972"}
+{"timestamp":"2026-09-08T19:26:48.567526Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=973"}
+{"timestamp":"2026-09-08T19:26:48.567534Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=974"}
+{"timestamp":"2026-09-08T19:26:48.567542Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=975"}
+{"timestamp":"2026-09-08T19:26:48.567549Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=976"}
+{"timestamp":"2026-09-08T19:26:48.567706Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=977"}
+{"timestamp":"2026-09-08T19:26:48.567714Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=978"}
+{"timestamp":"2026-09-08T19:26:48.567722Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=979"}
+{"timestamp":"2026-09-08T19:26:48.567730Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=980"}
+{"timestamp":"2026-09-08T19:26:48.567738Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=981"}
+{"timestamp":"2026-09-08T19:26:48.567746Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=982"}
+{"timestamp":"2026-09-08T19:26:48.567754Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=983"}
+{"timestamp":"2026-09-08T19:26:48.567761Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=984"}
+{"timestamp":"2026-09-08T19:26:48.567769Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=985"}
+{"timestamp":"2026-09-08T19:26:48.567777Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=986"}
+{"timestamp":"2026-09-08T19:26:48.567784Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=987"}
+{"timestamp":"2026-09-08T19:26:48.567792Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=988"}
+{"timestamp":"2026-09-08T19:26:48.567799Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=989"}
+{"timestamp":"2026-09-08T19:26:48.567806Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=990"}
+{"timestamp":"2026-09-08T19:26:48.567814Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=991"}
+{"timestamp":"2026-09-08T19:26:48.567821Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=992"}
+{"timestamp":"2026-09-08T19:26:48.567829Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=993"}
+{"timestamp":"2026-09-08T19:26:48.567839Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=994"}
+{"timestamp":"2026-09-08T19:26:48.567847Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=995"}
+{"timestamp":"2026-09-08T19:26:48.567854Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=996"}
+{"timestamp":"2026-09-08T19:26:48.567862Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=997"}
+{"timestamp":"2026-09-08T19:26:48.567869Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=998"}
+{"timestamp":"2026-09-08T19:26:48.567877Z","level":"INFO","logger":"java.lang.String","thread":"pool-1-thread-1","message":"Thread=1 processing task=999"}
+{"timestamp":"2026-09-08T19:26:48.663892Z","level":"INFO","logger":"Main","thread":"main","message":"All operations completed"}
+{"timestamp":"2026-09-08T19:26:48.663997Z","level":"ERROR","logger":"Main","thread":"main","message":"Testing final error message"}
+{"timestamp":"2026-09-08T19:26:48.664085Z","level":"FATAL","logger":"Main","thread":"main","message":"Application shutting down"}

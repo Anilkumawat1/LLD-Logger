@@ -20,6 +20,11 @@ public class SimpleLogger implements Logger {
         log(LogLevel.ERROR, message,throwable, args);
     }
 
+    @Override
+    public void error(String message, Object... args) {
+        log(LogLevel.ERROR, message, null, args);
+    }
+
     private void log(LogLevel logLevel, String message, Throwable throwable, Object[] args) {
         if (logLevel.isEnabled(loggerConfig.getLogLevel())) {
             String formattedMessage = String.format(message, args);
