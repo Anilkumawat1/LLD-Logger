@@ -1,0 +1,5 @@
+2026-09-08T18:32:11.299218Z [INFO] Main - This is an info message from Main class. Additional Info
+2026-09-08T18:32:11.301765Z [ERROR] Main - An exception occurred: / by zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:29)
+

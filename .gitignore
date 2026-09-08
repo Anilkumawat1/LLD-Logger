@@ -40,8 +40,6 @@ target/
 # Compiled Java files
 *.class
 
-# Logs
-*.log
 
 # OS generated files
 Thumbs.db
