@@ -231,7 +231,7 @@ classDiagram
     LogManager --> Appender : iterates
     LoggerConfig --> LogLevel
     LoggerConfig --> Appender
-    LoggerConfig +-- Builder
+    LoggerConfig ..> Builder : contains
     Appender <|.. AbstractAppender
     AbstractAppender <|-- ConsoleAppender
     AbstractAppender <|-- FileAppender
